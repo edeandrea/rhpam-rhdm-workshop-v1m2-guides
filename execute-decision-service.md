@@ -32,7 +32,6 @@ Finally, we provide the body of the request. In the body we pass the data, based
 
 ```
 {  
-   "lookup":"ccd-ksession-stateless",
    "commands":[  
       {  
          "insert":{  
